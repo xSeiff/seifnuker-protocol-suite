@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+build/
+dist/
+*.spec
+*.log
+.env
+.env.*
+.xseif_first
